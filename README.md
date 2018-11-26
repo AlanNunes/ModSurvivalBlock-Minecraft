@@ -1,4 +1,4 @@
-# This is a mod made on Python for Minecraft. 
+# Survival Block Mod for Minecraft.
 When the mod starts, it creates a **place surrounded by walls with a glass floor**. 
 But in the floor have different blocks, **find it and stand there**, because the glasses block are going to fade away. 
 In the beginning is displayed in the chat that the game is going to start in 30 seconds. 
