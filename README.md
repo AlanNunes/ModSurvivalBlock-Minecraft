@@ -11,6 +11,6 @@ I wish you good luck!
 ![Survival Block](https://i.imgur.com/Qzw8dXR.png)
 
 # Configuring the Mod
-* Before installing the mod you must have the [Spigot](https://www.spigotmc.org/wiki/spigot-installation/) server configured in yout computer, follow the steps of the book [Learning to Program With Python](https://nostarch.com/programwithminecraft), or just go to [Download Minecraft Tools](https://sourceforge.net/projects/program-with-minecraft/) and download the files.
+* Before installing the mod you must have the [Spigot](https://www.spigotmc.org/wiki/spigot-installation/) server configured in your computer, follow the steps of the book [Learning to Program With Python](https://nostarch.com/programwithminecraft), or just go to [Download Minecraft Tools](https://sourceforge.net/projects/program-with-minecraft/) and download the files.
   * Extract the file and execute **Instalation_API** as administrator and after click in **Start_Server**
 * Clone this repository and execute the **script.py**. Do not forget to start the server.
